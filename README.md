@@ -1,1 +1,2 @@
-# FE23-JS1-MP1-Abdulla-Jamal
+# Abdulla-Jamal
+This is my first Gradient... EVER. very cool.
